@@ -1,6 +1,6 @@
 {
-  "name": "@cmfcmf/docusaurus-search-local",
-  "version": "0.11.0",
+  "name": "@chszchen/docusaurus-search-local",
+  "version": "0.1.3",
   "description": "Local / Offline Search for Docusaurus",
   "keywords": [
     "docusaurus",
@@ -10,7 +10,7 @@
     "local"
   ],
   "license": "MIT",
-  "repository": "cmfcmf/docusaurus-search-local",
+  "repository": "nordcloud/docusaurus-search-local",
   "main": "lib/server/index.js",
   "files": [
     "/src",
@@ -22,7 +22,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "Christian Flach",
+  "author": "chszchen",
   "dependencies": {
     "@algolia/autocomplete-js": "^1.5.1",
     "@algolia/autocomplete-theme-classic": "^1.5.1",
